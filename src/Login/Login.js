@@ -46,7 +46,7 @@ function Login(props) {
   return (
     <div className="register__div">
       <nav className="mobile__nav">
-        <h1 className="nav__logo">l'sBook</h1>
+        <h1 className="nav__logo">Ur'sBook</h1>
         <button onClick={showRegisterPage}>Register</button>
       </nav>
       <div className="login-container">
