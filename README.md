@@ -1,4 +1,4 @@
-# Ur's Book
+# <b>![image](https://github.com/AdityaSen-1606/ur-s-book/assets/76251309/45a663f7-c89f-494b-8262-53f860a25a7d)</b> Ur's Book
 
 Welcome to Ur's Book, a social networking app where you can connect with people and share your thoughts!
 
