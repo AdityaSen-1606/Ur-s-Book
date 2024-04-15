@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ur's-book/static/css/main.455936fa.css",
+    "main.js": "/ur's-book/static/js/main.85064417.js",
+    "index.html": "/ur's-book/index.html",
+    "main.455936fa.css.map": "/ur's-book/static/css/main.455936fa.css.map",
+    "main.85064417.js.map": "/ur's-book/static/js/main.85064417.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.455936fa.css",
+    "static/js/main.85064417.js"
+  ]
+}
